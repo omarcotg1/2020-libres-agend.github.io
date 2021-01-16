@@ -10,7 +10,7 @@ Table of Contents
 * [Quienes somos](#quienes-somos)
 * [Arquitectura](#arquitectura)
 * [Mockups](#mockups)
-* [Base de Datos](#bases-de-datos)
+* [Database](#database)
 * [Historias de Usuario](#historias-de-usuario)
 * [Desarrollo](#desarrollo)
 * [Licencia](#licencia)
@@ -20,16 +20,15 @@ Table of Contents
 Quienes somos
 -------
 
+Buscamos ofrecer una app que te permita manejar tu tiempo de manera que puedas conseguir tus metas. Puedes ir más y tener metas grupales te ayudamos a que en equipo puedas lograr tus metas.
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+Por nuestro diseño las empresas pueden aprovechar nuestra app para el manejo de sus proyectos.
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
+> El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos. 
+> (Michael Jordan)
+
+> Ninguno de nosotros es tan listo como todos nosotros. 
+> (Ken Blanchard)
 
 Mockups
 -------
@@ -42,7 +41,7 @@ Imagen sobre la arquitectura usada
 
 
 
-Base de Datos
+Database
 -------
 Nuestra database
 
