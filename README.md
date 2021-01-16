@@ -46,7 +46,8 @@ Nuestro diseño Entidad-Relación para la base de datos es el siguiente:
 
 Historias de usuario
 -------
-
+Avance del proyecto
+![historias de usuario](user_histories.png)
 
 Desarrollo
 --------
