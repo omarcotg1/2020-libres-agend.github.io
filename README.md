@@ -25,13 +25,9 @@ Buscamos ofrecer una app que te permita manejar tu tiempo de manera que puedas c
 
 Por nuestro diseño las empresas pueden aprovechar nuestra app para el manejo de sus proyectos.
 
-> “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos.”
+> “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos.” (Michael Jordan)
 
-> (Michael Jordan)
-
-> “Ninguno de nosotros es tan listo como todos nosotros. ”
-
-> (Ken Blanchard)
+> “Ninguno de nosotros es tan listo como todos nosotros. ” (Ken Blanchard)
 
 Mockups
 -------
