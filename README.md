@@ -13,7 +13,7 @@ Table of Contents
 * [Base de Datos](#bases-de-datos)
 * [Historias de Usuario](#historias-de-usuario)
 * [Desarrollo](#desarrollo)
-* [Licensia](#licensia)
+* [Licencia](#licencia)
 
 ---
 
@@ -81,7 +81,7 @@ Desarrollo
 Tus aportes son bienvenidos en:
     eduardo.carrion@epn.edu.ec
 
-License
+Licencia
 ----
 
 GNU GPL v2
