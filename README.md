@@ -12,6 +12,8 @@ Table of Contents
 * [Mockups](#mockups)
 * [Base de Datos](#bases-de-datos)
 * [Historias de Usuario](#historias-de-usuario)
+* [Desarrollo](#desarrollo)
+* [Licensia](#licensia)
 
 ---
 
