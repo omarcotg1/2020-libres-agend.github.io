@@ -36,11 +36,16 @@ Aquí pondríamos una vista de los mockups
 Arquitectura
 -------
 Imagen sobre la arquitectura usada
-[![](architecture.jpg)](#)
+![arquitectura](architecture.jpg)
+
+
 
 Base de Datos
 -------
 Nuestra database
+
+![base_de_datos](database.jpg)
+
 
 Historias de usuario
 -------
