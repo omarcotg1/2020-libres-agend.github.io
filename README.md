@@ -5,7 +5,7 @@ Agend es una aplicación sencilla que busca ofrecerte una herramienta para gesti
 
 
 ![](https://img.shields.io/badge/lincese-GLP%20v2-red)
-![](https://img.shields.io/aur/last-modified/README.md)
+![](https://img.shields.io/badge/maintaner-mujik-blue)
 
 Table of Contents
 =======================
