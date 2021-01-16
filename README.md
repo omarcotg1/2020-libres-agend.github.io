@@ -1,8 +1,9 @@
 
 # Agend 
-Organiza de la mejor manera tu tiempo
 
-[![Web Page](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+Agend es una aplicación sencilla que busca ofrecerte una herramienta para gestionar tus actividades y así logres tus metas. Organiza tu tiempo y consigue tus metas no solo individuales sino también grupales.
+
+[![Web Page](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
 Table of Contents
 =======================
@@ -24,10 +25,12 @@ Buscamos ofrecer una app que te permita manejar tu tiempo de manera que puedas c
 
 Por nuestro diseño las empresas pueden aprovechar nuestra app para el manejo de sus proyectos.
 
-> El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos. 
+> “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos.”
+
 > (Michael Jordan)
 
-> Ninguno de nosotros es tan listo como todos nosotros. 
+> “Ninguno de nosotros es tan listo como todos nosotros. ”
+
 > (Ken Blanchard)
 
 Mockups
@@ -36,21 +39,17 @@ Aquí pondríamos una vista de los mockups
 
 Arquitectura
 -------
-Imagen sobre la arquitectura usada
+La arquitectura sobre la que se soporta el proyecto
 ![arquitectura](architecture.jpg)
-
-
 
 Database
 -------
-Nuestra database
+Nuestro diseño Entidad-Relación para la base de datos es el siguiente:
 
 ![base_de_datos](database.jpg)
 
-
 Historias de usuario
 -------
-
 
 
 Desarrollo
