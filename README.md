@@ -71,27 +71,13 @@ And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
 
-### Plugins
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+Desarrollo
+--------
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-
-### Desarrollo
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
+¿Quiéres contribuir?
+Tus aportes son bienvenidos en:
+    eduardo.carrion@epn.edu.ec
 
 License
 ----
