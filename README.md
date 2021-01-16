@@ -4,7 +4,8 @@
 Agend es una aplicación sencilla que busca ofrecerte una herramienta para gestionar tus actividades y así logres tus metas. Organiza tu tiempo y consigue tus metas no solo individuales sino también grupales.
 
 
-[![](https://img.shields.io/badge/lincese-GLP%20v2-red)]
+![](https://img.shields.io/badge/lincese-GLP%20v2-red)
+![](https://img.shields.io/aur/last-modified/README.md)
 
 Table of Contents
 =======================
