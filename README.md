@@ -31,7 +31,8 @@ Por nuestro diseño las empresas pueden aprovechar nuestra app para el manejo de
 
 Mockups
 -------
-Aquí pondríamos una vista de los mockups
+
+[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
 
 Arquitectura
 -------
